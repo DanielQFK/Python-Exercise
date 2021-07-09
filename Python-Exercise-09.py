@@ -29,5 +29,3 @@ print("Here are your friends' name : " , names)
 # Enter one of your fiend's name > joe
 # Enter one of your fiend's name > james
 # Here are your friends' name :  ['Max', 'Alex', 'Daniel', 'Joe', 'James']
-
-
