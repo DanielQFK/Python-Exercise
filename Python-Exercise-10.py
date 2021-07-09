@@ -32,5 +32,4 @@ if Nationality=="Iran" or Nationality=="iran" or Nationality=="IRN" or Nationali
     print("Hello Iranian... ")
 elif Nationality=="U.S.A" or Nationality=="USA" or Nationality=="America" or Nationality=="United States of America":
     print("Hi American...")
-#As you see we can also use or if we have many things to put in the condition...
-                           
+#As you see we can also use or if we have many things to put in the condition...                   
