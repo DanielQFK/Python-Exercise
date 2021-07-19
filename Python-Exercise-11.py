@@ -1,4 +1,4 @@
-# Tuple exercises
+# Tuple exercises...
 
 # 1.
 Tuple1 = ("daniel" , "Max" , "EMMA")
