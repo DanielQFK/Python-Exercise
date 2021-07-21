@@ -75,7 +75,7 @@ List1 = [3 , 8 , 345 , 2 , 654 ]
 for c in List1:
     print(c) 
     print("Hello...")
-# output =
+# output=
 # 3
 # Hello...
 # 8
