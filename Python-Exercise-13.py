@@ -26,6 +26,4 @@ while number!=guess:
     if number<guess:
         number = int(input("Enter a higher number > "))
 
-print("Congratulation ...≧^◡^≦")
-
-
+print("Congratulation ...≧^◡^≦...")
