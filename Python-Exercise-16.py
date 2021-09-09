@@ -18,7 +18,7 @@ Function2()
 
 # e.g. 3
 def Function3(name , lastname):
-    print(f'my name is {name} and my lastname is {lastname}...')
+    print(f'my name is {name} and my lastname is {lastname}.')
 
 Function3('Joe' , 'Stone')
 
@@ -34,6 +34,6 @@ print(result)
 outputs in order:
 Hi
 6 9
-my name is Joe and my lastname is Stone...
+my name is Joe and my lastname is Stone.
 6
 """
