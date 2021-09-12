@@ -1,5 +1,5 @@
 # set Exercise
-# Part 1
+# Part 1...
 
 Integer_set = {1.2 , 19827 , 52435 , 234 , 21 , 47756.0938774}
 print(Integer_set)
